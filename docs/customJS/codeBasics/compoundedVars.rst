@@ -1,6 +1,6 @@
 .. _compounding:
 
-Compounding variables like I have interest
+Compounding variables like I had interest
 ==========================================
 
 We have already seen the different types of variables we can have in javascript. But this is good only for simple situations. What can you do if you need your data organized in a certain way? Or if you want to perform the same action many times? That's where compounded variables and functions come into play.
@@ -115,7 +115,7 @@ This is a much cleaner way to create such a list and one from which it is easier
 
    pricesDictionary.tv;  // returns 899
    pricesDictionary[tv]; // returns 899
-   pricesDictionary.soundSystem; // return 89
+   pricesDictionary.soundSystem; // return 78
 
 You can use ``dictionaryName.key`` or ``dictionaryName[key]`` to get the value associated with ``key`` in ``dictionaryName`` but it is recommended that you use the **dot notation** when possible.
 
